@@ -1,2 +1,4 @@
-# Sprint_3_FrontEnd
-Vai conter os arquivos do MVP referentes a Sprint_3. Os arquivos são referentes ao FrontEnd
+docker build -t modern_click_store .
+
+docker run -d -p 3000:3000 modern_click_store
+

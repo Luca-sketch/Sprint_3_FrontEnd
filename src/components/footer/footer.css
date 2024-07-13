@@ -1,0 +1,19 @@
+.footer {
+    background: linear-gradient(to right, #696969, #DCDCDC);
+    color: #000;
+    text-align: center;
+    padding: 5px 20px; 
+    position: fixed;
+    width: 95%;
+    bottom: 0;
+    margin: 0px 12px 2px 12px;
+}
+
+
+@media screen and (max-width: 500px) {
+    .footer {
+         font-size: 12px;
+        }
+}
+
+
